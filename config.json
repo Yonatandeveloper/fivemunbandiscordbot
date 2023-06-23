@@ -1,0 +1,20 @@
+{
+    "botConfig": [
+        {
+            "servername": "Yoni Tovim Roleplay", 
+            "allowed_user": "0", 
+            "token": "token"
+
+        }
+    ],
+    "fivemConfig": [
+        {
+            "fivem-sql-ip": "127.0.0.1", 
+            "user-sql": "root", 
+            "password-sql": "", 
+            "fivem-sql-database": "", 
+            "fivem-sql-quary": "database"   
+
+        }
+    ]
+}
